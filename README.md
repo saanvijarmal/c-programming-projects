@@ -6,6 +6,7 @@ A collection of beginner C programming projects created while learning C.
 
 - Calculator Project
 - Student Grade System
+- Student Profile Manager
 
 ## Concepts Practiced
 
@@ -13,6 +14,7 @@ A collection of beginner C programming projects created while learning C.
 - Input/Output
 - Conditions
 - Arithmetic Operations
+- Structures
 
 ## Author
 
