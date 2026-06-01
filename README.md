@@ -7,6 +7,7 @@ A collection of beginner C programming projects created while learning C.
 - Calculator Project
 - Student Grade System
 - Student Profile Manager
+- Student Scholarship Eligibility Program
 
 ## Concepts Practiced
 
