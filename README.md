@@ -9,6 +9,7 @@ A collection of beginner C programming projects created while learning C.
 - Student Profile Manager
 - Student Scholarship Eligibility Program
 - Library Management System
+- Hospital Patient Record System
 
 ## Concepts Practiced
 
@@ -20,6 +21,7 @@ A collection of beginner C programming projects created while learning C.
 - Arrays of Structures
 - Nested Loops
 - String Handling (`fgets`)
+- Nested Structures
 
 ## Author
 
