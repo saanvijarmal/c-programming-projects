@@ -9,7 +9,7 @@ int main(){
     struct Student s1;
     printf("Welcome! Please enter the following details.\n");
     printf("Name of Student:");
-    scanf("%s", &s1.name);
+    scanf("%s", s1.name);
     printf("\nRoll Number:");
     scanf("%d", &s1.roll_no);
     printf("\nCGPA Acquired:");
